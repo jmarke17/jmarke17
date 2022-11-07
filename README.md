@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmarke17
 - 👀 I’m interested in Data Science and everything related...
-- 🌱 I’m currently learning Python and advanced statistics
+- 🌱 I’m currently learning Spark and AWS.
 - 💞️ I’m looking to collaborate on trying to find different strategies to earn money on the Stock Markets.
 - 📫 You can contact me with juanmarquesan@gmail.com
 
